@@ -1,1 +1,1 @@
-print("I'am Ivo a newbie programmer")
+I am Ivo,a newbie programmer
